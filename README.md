@@ -1,11 +1,11 @@
 ## Overview
-This API performs basic CRUD operation of a Task-manager web-application which includes :
+Task manager application built using NODE JS and MongoDB. It follows a RESTFul API design architecture. The app sends an email notification upon registration and deactivation of the user's account. It's richly built with a simple scientific technique and best practices in the world of API design.
 
-Create user, task and avatar  
-Read user, task and avatar  
-Update user, task and avatar  
-Delete user, task and avatar  
-This API also implements Authentication and Authorization of users.
+# Features
+* Sending Emails
+* Authentication and Security
+* Sorting, Pagination, and filtering
+* Avatar upload
 
 # Try it out
 > For a demo check this link https://nnv-task-manager.herokuapp.com
