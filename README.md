@@ -43,7 +43,7 @@ MONGODB_URL : Use your local MongoDb url which should like this mongodb://localh
 JWT_SECRET : This could be any value e.g mytaskmanagerapi  
 MAILGUN_API_KEY : Signup with [mailgun](www.mailgun.com "mailgun") and get their API key (Optional)
 
-# Registration
+# Endpoints
 Since this API makes use of Authentication, you need to be a registered user before you make CRUD operations to the API
 
 **Signup user**  
