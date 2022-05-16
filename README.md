@@ -8,7 +8,7 @@ Task manager application built using NODE JS and MongoDB. It follows a RESTFul A
 * Avatar upload
 
 # Try it out
-> For a demo check this link https://nnv-task-manager.herokuapp.com
+ For a demo check this link `https://nnv-task-manager.herokuapp.com`
 
 # Getting Started
 These instructions will get a copy of the project up and running on your machine for development.
@@ -23,15 +23,15 @@ MongoDB
 # Installation
 Clone this repository
 
-git clone https://github.com/Nnvedward/task-manager-api.git
+git clone https://github.com/Nnvemeka/task-manager-api.git
 
 Move into the project directory and install its dependencies
 
-npm install
+`npm install`
 
 To start the dev API server run this command
 
-npm run dev
+`npm run dev`
 
 Navigate to localhost:3000 to see the API
 
